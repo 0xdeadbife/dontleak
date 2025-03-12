@@ -24,7 +24,7 @@ Visit [https://yourusername.github.io/dontleak](https://yourusername.github.io/d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dontleak.git
+git clone https://github.com/0xdeadbife/dontleak.git
 cd dontleak
 ```
 
