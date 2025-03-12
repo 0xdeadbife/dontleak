@@ -11,7 +11,7 @@ A tool to protect your sensitive information before sharing with AI language mod
 
 ## Demo
 
-Visit [https://yourusername.github.io/dontleak](https://yourusername.github.io/dontleak) to try it out.
+Visit [https://0xdeadbife.github.io/dontleak](https://0xdeadbife.github.io/dontleak) to try it out.
 
 ## Getting Started
 

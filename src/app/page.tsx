@@ -21,7 +21,7 @@ export default function Home() {
       </div>
       <footer className="container mx-auto max-w-3xl mt-8 pb-4 text-center">
         <p className="text-sm opacity-70">
-          made with <span className="text-red-500/70">&lt;3</span> by 0xdeadbife
+          made with <span className="text-red-500/70">&lt;3</span> by <a href="https://github.com/0xdeadbife" target="_blank" rel="noopener noreferrer" className="hover:text-green-500 transition-colors">0xdeadbife</a>
         </p>
       </footer>
     </main>
